@@ -133,7 +133,7 @@
                                 src='<?php  echo $image['url'] ?>' 
                                 alt='<?php  echo $image['alt'] ?>'>
                                 <?php  endif;  
-                                print_r($image);
+                                // print_r($image);
                             ?>
                         </div>
                     </div>
